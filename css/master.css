@@ -663,8 +663,8 @@ footer {
 }
 
 .row {
-    margin-left: -145px;
-    width: 1400px;
+    max-width: 1400px;
+    width: 100%;
     padding-top: 20px;
     display: flex;
     flex-direction: row;
