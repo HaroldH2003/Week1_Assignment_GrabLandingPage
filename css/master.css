@@ -380,7 +380,7 @@ arrow {
     display: none;
     position: absolute;
     right: 48px;
-    top: 70px;
+    top: 72px;
     border: .5px solid lightgrey;
     border-radius: 2px;
     padding: 8px;
@@ -395,7 +395,7 @@ arrow {
 }
 
 #nav-main li:hover>.dropdown-content {
-    top: 60px;
+    top: 59px;
 }
 
 #nav-main li:hover>#drop-1 {
