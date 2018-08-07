@@ -649,12 +649,6 @@ arrow {
     padding-top: 5px;
 }
 
-#how-it-works {
-    height: 531.3px;
-    margin: 0 auto;
-    margin-top: 60px;
-}
-
 footer {
     margin: 0px !important;
     background-color: #363A45;
@@ -1242,6 +1236,7 @@ rightarrow {
 }
 
 #how-it-works {
+    margin-top: 60px;
     height: 736.40px;
     background-color: #fff;
     padding-left: 50px;
@@ -1253,6 +1248,7 @@ rightarrow {
     height: inherit;
     margin: 0 auto;
     padding: 0 auto;
+    position: relative;
 }
 
 .p-text {
@@ -1286,9 +1282,9 @@ rightarrow {
 
 #map-screen {
     position: absolute;
-    width: 15.4%;
-    top: 832px;
-    left: 438px;
+    width: 20.3%;
+    top: 179px;
+    left: 250px;
     z-index: 1;
 }
 
